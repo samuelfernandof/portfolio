@@ -5,8 +5,8 @@
 **RAG, Fine-Tuning, Vector Databases, Knowledge-Graphs**
 
 *Research interests:*<br>
-**Quantum data-advantage in learning from experiments**<br>
-**Group representation theory methods and Symmetry groups**<br>
+**1.Quantum data-advantage in learning from experiments**<br>
+**2.Group representation theory methods and Symmetry groups**<br>
 
 ## Education
 -
