@@ -1,12 +1,11 @@
 # Data & AI Specialist
 
 *Technical skills:*<br>
-**Python, Machine Learning, NLP, LLM, Document AI**<br>
-**RAG, Fine-Tuning, Vector Databases, Knowledge-Graphs**
+**Machine Learning, Natural Language Processing, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI**
 
 *Research interests:*<br>
 **1.Quantum data-advantage in learning from experiments**<br>
-**2.Group representation theory methods and Symmetry groups**<br>
+**2.Representation theory of Lie algebras and Symmetry groups**<br>
 
 ## Education
 -
