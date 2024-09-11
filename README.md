@@ -1,11 +1,11 @@
 # Data & AI Specialist
 
 *Technical skills:*<br>
-**Machine Learning, Natural Language Processing, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI**
+**Generative AI Engineering, Quantitative Research, ML, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI**
 
 *Research interests:*<br>
-**1.Quantum data-advantage in learning from experiments**<br>
-**2.Representation theory of Lie algebras and Symmetry groups**<br>
+**1.Entanglement, complexity and increased sensitivity in quantum sensors, NMR hardware interface**<br>
+**2.Categorical logic, monoidal category theory, quantale, Linear logic**<br>
 
 ## Education
 -
