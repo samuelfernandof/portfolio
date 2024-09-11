@@ -4,8 +4,8 @@
 **Generative AI Engineering, Quantitative Research, ML, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI**
 
 *Research interests:*<br>
-**1.Entanglement, complexity and increased sensitivity in quantum sensors, NMR hardware interface**<br>
-**2.Categorical logic, monoidal category theory, quantale, Linear logic**<br>
+**1. Entanglement, complexity and increased sensitivity in quantum sensors, NMR hardware interface**<br>
+**2. Categorical logic, monoidal category theory, quantale, Linear logic**<br>
 
 ## Education
 -
