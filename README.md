@@ -1,7 +1,7 @@
 # Data & AI Specialist
 
 *Technical skills:*<br>
-**Generative AI Engineering, Quantitative Research, ML, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI**
+**Large Language Models, Machine Learning, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI (Python, C/C++, R)**
 
 *Research interests:*<br>
 **1. Entanglement, complexity and increased sensitivity in quantum sensors, NMR hardware interface**<br>
