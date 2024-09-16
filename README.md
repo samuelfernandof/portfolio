@@ -5,7 +5,7 @@
 
 *Research interests:*<br>
 **1. Entanglement, complexity and sensitivity in quantum sensors, NMR interface quantum computer**<br>
-**2. Categorical logic,Curry-Howard-Lambek correspondance**<br>
+**2. Categorical logic, Curry-Howard-Lambek correspondance**<br>
 
 ## Education
 -
