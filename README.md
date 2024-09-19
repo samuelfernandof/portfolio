@@ -1,4 +1,4 @@
-# Data & AI Specialist
+# AI Engineer & Researcher
 
 *Technical skills:*<br>
 **Large Language Models, Machine Learning, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI (Python, C/C++, R)**
