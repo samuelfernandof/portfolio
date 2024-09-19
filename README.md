@@ -4,7 +4,7 @@
 **Large Language Models, Machine Learning, MLOps, Agents-LLM, RAG, Knowledge-Graphs, DocumentAI (Python, C/C++, R)**
 
 *Research interests:*<br>
-**1. Entanglement, complexity and sensitivity in quantum sensors, NMR interface quantum computer**<br>
+**1. Entanglement, complexity and sensitivity in quantum sensors, NMR interface quantum computer.**<br>
 **2. Categorical logic, Topos Theory, Complexity Theory.**<br>
 
 ## Education
